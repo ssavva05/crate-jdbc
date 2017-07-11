@@ -1,0 +1,3 @@
+crate.docs-theme
+Sphinx==1.4.4
+sphinx-autobuild
