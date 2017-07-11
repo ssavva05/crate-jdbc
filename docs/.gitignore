@@ -3,7 +3,7 @@
 *.pyo
 /tmp/
 parts/
+.venv/
 .installed.cfg
-bin/
 develop-eggs/
 eggs/
